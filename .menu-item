@@ -1,0 +1,14 @@
+<div class="menu-item">
+  <img src="assets/images/.jpg" alt="">
+  <h3>Burger</h3>
+  <p>Delicious veggie burger with fries.</p>
+  <p class="price">₹99</p>
+  <button onclick="addToCart('Burger', 99)">Add to Cart</button>
+</div>
+<div class="menu-item">
+  <img src="assets/images/pizza.jpg" alt="Pizza">
+  <h3>Pizza</h3>
+  <p>Cheesy margherita pizza.</p>
+  <p class="price">₹149</p>
+  <button onclick="addToCart('Pizza', 149)">Add to Cart</button>
+</div>
